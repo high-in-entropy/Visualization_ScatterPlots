@@ -9,4 +9,4 @@ Various topics covered in the notebook are as followed :
 * Shapes added to Scatter Plots
 * Marginal Histograms
 
-Like what I do? Follow me on [Twitter](https://twitter.com/high_in_entropy) or connect with me on [LinkedIn](https://www.linkedin.com/in/viraj-mohile-70560b157/)
+Like what I do? Follow me on [Twitter](https://twitter.com/high_in_entropy) or connect with me on [LinkedIn](https://www.linkedin.com/in/viraj-mohile-70560b157/)!
